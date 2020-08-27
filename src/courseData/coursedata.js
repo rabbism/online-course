@@ -1,0 +1,130 @@
+const Data = [
+    {
+        name: "Complete React Course",
+        price: 10.99,
+        instructor: "Jhankar Mahbub",
+        img: "https://cdn.elearningindustry.com/wp-content/uploads/2016/09/online-course-development-process-must-know-outsource.jpeg",
+    },
+    {
+        name: "Complete Angular Course",
+        price: 8.99,
+        instructor: "Jhankar Mahbub",
+        img: "https://cdn.elearningindustry.com/wp-content/uploads/2016/09/online-course-development-process-must-know-outsource.jpeg",
+    },
+    {
+        name: "Complete Vue Course",
+        price: 6.99,
+        instructor: "Jhankar Mahbub",
+        img: "https://cdn.elearningindustry.com/wp-content/uploads/2016/09/online-course-development-process-must-know-outsource.jpeg",
+    },
+    {
+        name: "Complete Svelte Course",
+        price: 5.99,
+        instructor: "Jhankar Mahbub",
+        img: "https://cdn.elearningindustry.com/wp-content/uploads/2016/09/online-course-development-process-must-know-outsource.jpeg",
+    },
+    {
+        name: "Complete Stripe Course",
+        price: 12.99,
+        instructor: "Jhankar Mahbub",
+        img: "https://cdn.elearningindustry.com/wp-content/uploads/2016/09/online-course-development-process-must-know-outsource.jpeg",
+    },
+    {
+        name: "Complete MERN Course",
+        price: 20.99,
+        instructor: "Jhankar Mahbub",
+        img: "https://cdn.elearningindustry.com/wp-content/uploads/2016/09/online-course-development-process-must-know-outsource.jpeg",
+    },
+    {
+        name: "Complete MEAN Course",
+        price: 30.99,
+        instructor: "Jhankar Mahbub",
+        img: "https://cdn.elearningindustry.com/wp-content/uploads/2016/09/online-course-development-process-must-know-outsource.jpeg",
+    },
+    {
+        name: "Complete Django Course",
+        price: 22.99,
+        instructor: "Jhankar Mahbub",
+        img: "https://cdn.elearningindustry.com/wp-content/uploads/2016/09/online-course-development-process-must-know-outsource.jpeg",
+    },
+    {
+        name: "Complete Laravel Course",
+        price: 15.99,
+        instructor: "Jhankar Mahbub",
+        img: "https://cdn.elearningindustry.com/wp-content/uploads/2016/09/online-course-development-process-must-know-outsource.jpeg",
+    },
+    {
+        name: "Complete Android Course",
+        price: 23.99,
+        instructor: "Jhankar Mahbub",
+        img: "https://cdn.elearningindustry.com/wp-content/uploads/2016/09/online-course-development-process-must-know-outsource.jpeg",
+    },
+    {
+        name: "Complete Flutter Course",
+        price: 18.99,
+        instructor: "Jhankar Mahbub",
+        img: "https://cdn.elearningindustry.com/wp-content/uploads/2016/09/online-course-development-process-must-know-outsource.jpeg",
+    },
+    {
+        name: "Complete ReactNative Course",
+        price: 50.99,
+        instructor: "Jhankar Mahbub",
+        img: "https://cdn.elearningindustry.com/wp-content/uploads/2016/09/online-course-development-process-must-know-outsource.jpeg",
+    },
+    {
+        name: "Complete Wordpress Course",
+        price: 4.99,
+        instructor: "Jhankar Mahbub",
+        img: "https://cdn.elearningindustry.com/wp-content/uploads/2016/09/online-course-development-process-must-know-outsource.jpeg",
+    },
+    {
+        name: "Complete Java Course",
+        price: 6.99,
+        instructor: "Jhankar Mahbub",
+        img: "https://cdn.elearningindustry.com/wp-content/uploads/2016/09/online-course-development-process-must-know-outsource.jpeg",
+    },
+    {
+        name: "Complete DSA Course",
+        price: 60.99,
+        instructor: "Jhankar Mahbub",
+        img: "https://cdn.elearningindustry.com/wp-content/uploads/2016/09/online-course-development-process-must-know-outsource.jpeg",
+    },
+    {
+        name: "Complete MongoDB Course",
+        price: 29.99,
+        instructor: "Jhankar Mahbub",
+        img: "https://cdn.elearningindustry.com/wp-content/uploads/2016/09/online-course-development-process-must-know-outsource.jpeg",
+    },
+    {
+        name: "Complete Devops Course",
+        price: 49.99,
+        instructor: "Jhankar Mahbub",
+        img: "https://cdn.elearningindustry.com/wp-content/uploads/2016/09/online-course-development-process-must-know-outsource.jpeg",
+    },
+    {
+        name: "Complete Docker Course",
+        price: 45.99,
+        instructor: "Jhankar Mahbub",
+        img: "https://cdn.elearningindustry.com/wp-content/uploads/2016/09/online-course-development-process-must-know-outsource.jpeg",
+    },
+    {
+        name: "Complete SpringBot Course",
+        price: 51.99,
+        instructor: "Jhankar Mahbub",
+        img: "https://cdn.elearningindustry.com/wp-content/uploads/2016/09/online-course-development-process-must-know-outsource.jpeg",
+    },
+    {
+        name: "Complete Symphony Course",
+        price: 27.99,
+        instructor: "Jhankar Mahbub",
+        img: "https://cdn.elearningindustry.com/wp-content/uploads/2016/09/online-course-development-process-must-know-outsource.jpeg",
+    },
+    {
+        name: "Complete Xamarin Course",
+        price: 37.99,
+        instructor: "Jhankar Mahbub",
+        img: "https://cdn.elearningindustry.com/wp-content/uploads/2016/09/online-course-development-process-must-know-outsource.jpeg",
+    },
+]
+
+export default Data
